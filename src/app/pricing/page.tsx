@@ -30,7 +30,7 @@ export default function Pricing() {
         <div className="text-center mb-16">
           <h2 className="text-3xl font-bold text-gray-800 mb-4">Our Pricing Options</h2>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            We offer flexible plans to suit every traveler's needs and budget
+            We offer flexible plans to suit every traveler&apos;s needs and budget
           </p>
         </div>
 
@@ -140,7 +140,7 @@ export default function Pricing() {
                   />
                 ))}
               </div>
-              <p className="text-gray-600 mb-6">"{testimonial.comment}"</p>
+              <p className="text-gray-600 mb-6">&quot;{testimonial.comment}&quot;</p>
               <div className="flex items-center">
                 <div className="relative w-12 h-12 rounded-full overflow-hidden mr-4">
                   <Image

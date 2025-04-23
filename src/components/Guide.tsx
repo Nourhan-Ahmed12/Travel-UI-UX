@@ -34,7 +34,7 @@ export default function GuideSection() {
           >
             <h2 className="text-4xl font-bold mb-6">Expert Travel Guides</h2>
             <p className="text-gray-600 mb-6">
-              Our professional guides have extensive knowledge about the local culture, history, and hidden gems that you won't find in guidebooks.
+              Our professional guides have extensive knowledge about the local culture, history, and hidden gems that you won&apos;t find in guidebooks.
             </p>
             
             <div className="space-y-4">

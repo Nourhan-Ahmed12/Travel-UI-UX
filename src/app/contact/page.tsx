@@ -19,7 +19,7 @@ export default function ContactPage() {
           <div className="max-w-4xl mx-auto">
             <h1 className="text-4xl md:text-5xl font-bold text-white mb-4">Get In Touch</h1>
             <p className="text-xl text-white/90">
-              We're here to help you plan your perfect adventure
+              We&apos;re here to help you plan your perfect adventure
             </p>
           </div>
         </div>

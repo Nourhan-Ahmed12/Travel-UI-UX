@@ -38,7 +38,7 @@ export default function FeaturesSection() {
       >
         <h2 className="text-4xl font-bold mb-4">Why Choose Us</h2>
         <p className="text-gray-600 max-w-2xl mx-auto">
-          We're committed to providing exceptional travel experiences with these key features.
+          We&apos;re committed to providing exceptional travel experiences with these key features.
         </p>
       </motion.div>
 

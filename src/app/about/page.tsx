@@ -125,7 +125,7 @@ export default function AboutPage() {
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-3xl font-bold mb-6">Ready for Your Next Adventure?</h2>
           <p className="text-xl mb-8 max-w-2xl mx-auto">
-            Join thousands of travelers who've experienced the world differently with us.
+            Join thousands of travelers who&apos;ve experienced the world differently with us.
           </p>
           <div className="flex flex-col sm:flex-row justify-center gap-4">
             <Link

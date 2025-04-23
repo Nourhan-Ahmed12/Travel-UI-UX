@@ -30,7 +30,7 @@ export default function ServicesPage() {
         <div className="text-center mb-16">
           <h2 className="text-3xl font-bold text-gray-800 mb-4">What We Offer</h2>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            From adventure-packed itineraries to relaxing getaways, we've got you covered
+            From adventure-packed itineraries to relaxing getaways, we&apos;ve got you covered
           </p>
         </div>
 

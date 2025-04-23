@@ -23,7 +23,7 @@ export default function NotFound() {
             Oops! Page Not Found
           </h2>
           <p className="text-xl text-gray-600 mb-8">
-            The page you're looking for might have been removed, had its name changed, or is temporarily unavailable.
+            The page you&apos;re looking for might have been removed, had its name changed, or is temporarily unavailable.
             <br />
             You can return to the homepage or explore our amazing travel destinations.
           </p>
